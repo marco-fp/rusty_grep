@@ -1,0 +1,7 @@
+[package]
+name = "rusty_grep"
+version = "0.1.0"
+authors = ["Marco Fernandez Pranno <mfernandezpranno@gmail.com>"]
+repository="git@github.com:marco-fp/rusty_grep.git"
+
+[dependencies]
